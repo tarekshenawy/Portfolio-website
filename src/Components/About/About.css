@@ -1,0 +1,41 @@
+.about{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+  color: #fff;
+  margin: 10px auto;
+}
+.about .col1{
+    flex-basis: 50%;
+    margin-right: 30px;
+  
+}
+.about  span{
+    color: gold;
+}
+.about .col2{
+    flex-basis: 50%;
+}
+.about  p{
+    margin-bottom: 20px;
+    font-weight: bold;
+   
+}
+@media(max-width:800px){
+    .about{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    
+    }
+    .about p{
+        font-size: 15px;
+      
+    }
+    .about .col2 p{
+       font-size: 13px;
+    }
+  
+ 
+
+}
