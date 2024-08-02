@@ -4,6 +4,7 @@
     justify-content: space-between;
   color: #fff;
   margin: 10px auto;
+ 
 }
 .about .col1{
     flex-basis: 50%;
