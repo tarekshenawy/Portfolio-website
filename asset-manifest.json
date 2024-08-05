@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Portfolio-website/static/css/main.a83c9550.css",
-    "main.js": "/Portfolio-website/static/js/main.9e1bd63a.js",
+    "main.css": "/Portfolio-website/static/css/main.325ca575.css",
+    "main.js": "/Portfolio-website/static/js/main.a113f701.js",
     "static/js/453.83234151.chunk.js": "/Portfolio-website/static/js/453.83234151.chunk.js",
     "static/media/wheaterapp.png": "/Portfolio-website/static/media/wheaterapp.82a5a43e8be930a32357.png",
     "static/media/cars.png": "/Portfolio-website/static/media/cars.ff3d622925a51c9cdfb9.png",
     "static/media/univerity.png": "/Portfolio-website/static/media/univerity.d8ced96a8cdc6ae2318b.png",
-    "static/media/myprofile.jpg": "/Portfolio-website/static/media/myprofile.59a63ab2dc4df70840d9.jpg",
+    "static/media/myprofile.png": "/Portfolio-website/static/media/myprofile.dcb66814ab8a714e3e1b.png",
     "static/media/css.png": "/Portfolio-website/static/media/css.19c8605d6b2861f5fbe0.png",
     "static/media/youtubeclone.jpg": "/Portfolio-website/static/media/youtubeclone.a83c4d3d6d60bf7c5cb0.jpg",
     "static/media/tictactoe.png": "/Portfolio-website/static/media/tictactoe.c2ab37ea9350630f13b2.png",
@@ -20,12 +20,12 @@
     "static/media/creative.png": "/Portfolio-website/static/media/creative.40d41bc688032225753d.png",
     "static/media/git.png": "/Portfolio-website/static/media/git.c8007a9fb185cb152ee6.png",
     "index.html": "/Portfolio-website/index.html",
-    "main.a83c9550.css.map": "/Portfolio-website/static/css/main.a83c9550.css.map",
-    "main.9e1bd63a.js.map": "/Portfolio-website/static/js/main.9e1bd63a.js.map",
+    "main.325ca575.css.map": "/Portfolio-website/static/css/main.325ca575.css.map",
+    "main.a113f701.js.map": "/Portfolio-website/static/js/main.a113f701.js.map",
     "453.83234151.chunk.js.map": "/Portfolio-website/static/js/453.83234151.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a83c9550.css",
-    "static/js/main.9e1bd63a.js"
+    "static/css/main.325ca575.css",
+    "static/js/main.a113f701.js"
   ]
 }
