@@ -15,7 +15,7 @@ export default function About() {
     <div className='about'>
 
    
-    <div className='m-72 h-80 mx-16 '>
+    <div className='m-72  mx-16 '>
 
         <p className='text-center font-bold text-3xl mb-14 '>About Me</p>
 
