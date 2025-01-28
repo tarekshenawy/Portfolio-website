@@ -35,9 +35,9 @@ export default function About() {
             data-aos-duration="1000" 
             data-aos-delay="200"     
             data-aos-easing="ease-in-out" className='flex-1 leading-10  bg-slate-400 p-3 rounded-lg '>
-                        <p><span className='font-bold'>Name</span> : Tarek El Sayed El Shenawy</p>
-                        <p><span  className='font-bold'>Email</span> : tarekelshenawy1997@gmail.com</p>
-                        <p><span  className='font-bold'>place</span> : Damietta</p>
+                        <p><span className='font-bold '>Name</span> : Tarek El Sayed El Shenawy</p>
+                        <p className='flex'><span className='font-bold'>Email</span> <span style={{display:'flex',wordBreak:"break-word"}}> : tarekelshenawy1997@gmail.com</span> </p>
+                        <p><span className='font-bold'>place</span> : Damietta</p>
                      </div>
 
         </div>

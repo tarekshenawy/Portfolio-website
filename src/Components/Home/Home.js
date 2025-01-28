@@ -17,15 +17,15 @@ export default function Home() {
   return (
     <div className='home'>
     
-    <div className='relative top-36 h-screen mx-16 mb-80'>
+    <div className='relative h-screen mb-80  px-4  m-auto flex flex-col justify-center  w-[80%]'>
 
 
-        <div className='flex items-center mx-20 md:flex-col-reverse lg:flex-row max-sm:flex-col-reverse sm:flex-col-reverse gap-5' >
+        <div className='flex items-center  md:flex-row md:absolute top-40 right-0 left-0 max-sm:flex-col-reverse max-sm:absolute  sm:flex-col-reverse sm:absolute gap-5' >
 
-                <div data-aos="zoom-in" data-aos-duration="2000"  data-aos-delay="200" data-aos-easing="ease-in-out" className='flex flex-col flex-1 text-4xl leading-normal font-bold '>
-                    <h1 >Hello there , i'm<br>
+                <div data-aos="zoom-in" data-aos-duration="2000"  data-aos-delay="200" data-aos-easing="ease-in-out" className='flex flex-col flex-1 text-3xl leading-normal font-bold '>
+                    <p>Hello there , i'm<br>
                     </br>Tarek El Shenawy<br></br>
-                   <span className='text-orange-500'>Front-End Web Developer</span> </h1>
+                   <span className='text-orange-500'>Front-End Web Developer</span> </p>
 
                     <button   class="rounded-full text-slate-50 bg-slate-800 w-40 text-lg mt-5 p-3">About me</button>
 
@@ -34,7 +34,6 @@ export default function Home() {
                 <div  className='flex  flex-1 justify-end'>
                     <img   src={myprofile} alt='' className='w-80 bg-indigo-950 rounded-full'></img>
               
-
                 </div>
 
 
